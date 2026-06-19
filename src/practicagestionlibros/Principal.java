@@ -5,10 +5,12 @@
 package practicagestionlibros;
 
 /**
- *
- * @author aleja
+ * Alejandro Chavarria Ramirez
+ * Daniela Jazmin Gomez Peña
+ * Marisol Del Carmen Masis Monge
  */
-public class PracticaGestionLibros {
+
+public class Principal {
 
     /**
      * @param args the command line arguments
